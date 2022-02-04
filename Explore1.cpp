@@ -20,6 +20,13 @@ int main() {
 
     // Add your changes here.
 
+    Point c;
+    c.x = 5;
+    c.y = 10;
+
+    cout << "Point c: x = " << c.x << ", y = " << c.y << endl;
+
+
     return 0;
 }
 
